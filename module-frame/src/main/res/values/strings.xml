@@ -1,0 +1,10 @@
+<resources>
+    <string name="frame_name">框架模块</string>
+    <string name="frame_title">框架</string>
+
+    <string name="frame_btn1">LoadSir</string>
+    <string name="frame_btn2">X5WebView</string>
+
+    <string name="frame_load_sir_title">LoadSir</string>
+
+</resources>

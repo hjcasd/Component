@@ -1,0 +1,12 @@
+include ':library-common'
+include ':module-main'
+include ':module-other'
+include ':module-senior'
+include ':module-frame'
+include ':module-home'
+include ':library-web'
+include ':library-widget'
+include ':library-net'
+include ':library-base'
+include ':app'
+rootProject.name = "Component"
